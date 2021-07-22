@@ -19,9 +19,6 @@ I'm an undergraduate student at UFCG majoring in Computer Science  :computer:
   const techStack = {
     languages: ['Python', 'Javascript', 'Java',
                 'C++'],
-    technologies: {
-      frontEnd: ['.NET', 'React'],
-      ,
-    },
+    technologies: ['.NET', 'React']
   };
   ```
