@@ -1,7 +1,7 @@
 # Hello, I'm Gildo
 
 I'm an undergraduate student of Computer Science at UFCG  :computer:
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="350" >
+<img align="right" alt="GIF" src="https://capricho.abril.com.br/wp-content/uploads/2019/12/giphy-gato-computador-pesquisa.gif" width="350" >
 ### Meus contatos:
 &nbsp;
 <br>
