@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at UFCG majoring in Computer Science  :computer:
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/c43ff8f864d7c6568f762a66fe8cfb5c/tenor.gif?itemid=15705968" width="350" >
-<div align='center'>
+<div align='left'>
     <a href='https://twitter.com/gildomneto'>
       <img alt='Twitter' src='https://img.shields.io/badge/Twitter-424B54.svg?&style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=424B54' title='Twitter'>
     </a>
@@ -14,12 +14,13 @@ I'm an undergraduate student at UFCG majoring in Computer Science  :computer:
     </a>
   </div>
 
-### conhecimento nas linguagens:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-c++-000000?style=flat&logo=c++)
-
-### conhecimento nas tecnologias:
-![.NET](https://img.shields.io/badge/-.net-000000?style=flat&logo=.net)
-![React](https://img.shields.io/badge/-react-000000?style=flat&logo=react)
+```Javascript
+  const techStack = {
+    languages: ['Python', 'Javascript', 'Java',
+                'C++'],
+    technologies: {
+      frontEnd: ['.NET', 'React'],
+      ,
+    },
+  };
+  ```
