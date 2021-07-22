@@ -1,9 +1,9 @@
 # Hello, I'm Gildo
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/c43ff8f864d7c6568f762a66fe8cfb5c/tenor.gif?itemid=15705968" width="350" >
-<div align='left'>
-I'm an undergraduate student at UFCG majoring in Computer Science  :computer:
 
+I'm an undergraduate student at UFCG majoring in Computer Science  :computer:
+<div align='left'>
     <a href='https://twitter.com/gildomneto'>
       <img alt='Twitter' src='https://img.shields.io/badge/Twitter-424B54.svg?&style=for-the-badge&logo=twitter&logoColor=FFFFFF&color=424B54' title='Twitter'>
     </a>
